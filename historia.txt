@@ -1,2 +1,2 @@
 Esta es la historia inicia
-Y me gustaría cometnart que este es el primer uso de git
+Y me gustaría cometnart que este es el primer uso de git y más
